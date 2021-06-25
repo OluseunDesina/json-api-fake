@@ -2,83 +2,93 @@
   "patients": [
     {
       "id": 0,
-      "name": "Yvette Kertzmann",
-      "gender": "Male",
-      "age": 47539,
-      "phoneNumber": "(383) 522-2503 x1792",
-      "address": "318 Ruby Via"
+      "avatar": "https://cdn.fakercloud.com/avatars/sreejithexp_128.jpg",
+      "name": "Pat Kiehn",
+      "gender": "Female",
+      "age": 70692,
+      "phoneNumber": "1-634-289-7632 x0935",
+      "address": "2377 Gleason Road"
     },
     {
       "id": 1,
-      "name": "Candice Connelly",
-      "gender": "Female",
-      "age": 80452,
-      "phoneNumber": "1-693-548-0791",
-      "address": "4112 Shaylee Shoals"
+      "avatar": "https://cdn.fakercloud.com/avatars/bcrad_128.jpg",
+      "name": "Sophie Schoen",
+      "gender": "Male",
+      "age": 1093,
+      "phoneNumber": "1-730-631-4051 x1220",
+      "address": "63608 Brown Shoals"
     },
     {
       "id": 2,
-      "name": "Jane Osinski",
-      "gender": "Male",
-      "age": 41669,
-      "phoneNumber": "(798) 354-7016 x21722",
-      "address": "1212 Huel Station"
+      "avatar": "https://cdn.fakercloud.com/avatars/anjhero_128.jpg",
+      "name": "Linda Schulist",
+      "gender": "Female",
+      "age": 10216,
+      "phoneNumber": "1-268-592-8647 x51365",
+      "address": "97585 Macie Parkways"
     },
     {
       "id": 3,
-      "name": "Bryan King Jr.",
-      "gender": "Male",
-      "age": 76742,
-      "phoneNumber": "(491) 337-6244 x658",
-      "address": "8470 Samara Manor"
+      "avatar": "https://cdn.fakercloud.com/avatars/vijaykarthik_128.jpg",
+      "name": "Tricia Torphy",
+      "gender": "Female",
+      "age": 43900,
+      "phoneNumber": "1-950-610-3952",
+      "address": "17912 Else Curve"
     },
     {
       "id": 4,
-      "name": "Ebony Thiel",
+      "avatar": "https://cdn.fakercloud.com/avatars/illyzoren_128.jpg",
+      "name": "Rosie Johns",
       "gender": "Male",
-      "age": 57809,
-      "phoneNumber": "780.887.4212 x28330",
-      "address": "54006 Sandra Terrace"
+      "age": 54699,
+      "phoneNumber": "640-926-6546",
+      "address": "478 Bauch Falls"
     },
     {
       "id": 5,
-      "name": "Mrs. Stacy Erdman",
+      "avatar": "https://cdn.fakercloud.com/avatars/chandlervdw_128.jpg",
+      "name": "Moses Heidenreich",
       "gender": "Male",
-      "age": 38639,
-      "phoneNumber": "449.296.3074 x98123",
-      "address": "63213 Jones Greens"
+      "age": 85537,
+      "phoneNumber": "(991) 308-8197 x52706",
+      "address": "44989 Louie Plains"
     },
     {
       "id": 6,
-      "name": "Monique Beahan",
-      "gender": "Male",
-      "age": 16319,
-      "phoneNumber": "1-299-220-1697",
-      "address": "76578 Joanny Expressway"
+      "avatar": "https://cdn.fakercloud.com/avatars/vikasvinfotech_128.jpg",
+      "name": "Freda Kessler IV",
+      "gender": "Female",
+      "age": 93451,
+      "phoneNumber": "836-327-2727 x50701",
+      "address": "509 Brakus Prairie"
     },
     {
       "id": 7,
-      "name": "Lindsay Hauck",
+      "avatar": "https://cdn.fakercloud.com/avatars/a_harris88_128.jpg",
+      "name": "Pearl Ernser",
       "gender": "Male",
-      "age": 90587,
-      "phoneNumber": "246.245.6405",
-      "address": "5121 Hodkiewicz Wells"
+      "age": 9493,
+      "phoneNumber": "(413) 240-8101",
+      "address": "9613 Fadel Path"
     },
     {
       "id": 8,
-      "name": "Jonathon Gorczany",
+      "avatar": "https://cdn.fakercloud.com/avatars/jjshaw14_128.jpg",
+      "name": "Matthew Mann",
       "gender": "Female",
-      "age": 90778,
-      "phoneNumber": "231-591-8465",
-      "address": "13057 Verdie Pines"
+      "age": 23133,
+      "phoneNumber": "230-345-9423 x901",
+      "address": "514 Jacinto Glens"
     },
     {
       "id": 9,
-      "name": "Saul Bartell",
-      "gender": "Female",
-      "age": 63664,
-      "phoneNumber": "1-983-542-9953",
-      "address": "3505 Alvina Fields"
+      "avatar": "https://cdn.fakercloud.com/avatars/jordyvdboom_128.jpg",
+      "name": "Ethel Frami",
+      "gender": "Male",
+      "age": 57701,
+      "phoneNumber": "1-920-785-7144 x8005",
+      "address": "438 Collier Meadow"
     }
   ]
 }
